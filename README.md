@@ -8,5 +8,5 @@ we have used Templates for frontend.
 ![Screenshot 2023-05-02 095817](https://user-images.githubusercontent.com/105526680/235579888-f578c912-66d9-47dc-a8de-86253793e04c.png)
 ![logout](https://user-images.githubusercontent.com/105526680/235579935-89c30277-58cd-41d4-ba36-10f52cdbba04.png)
 ![Register](https://user-images.githubusercontent.com/105526680/235579954-bd47537a-13c2-4b33-903c-735ccff3a604.png)
-![update record](https://user-images.githubusercontent.com/105526680/235580010-3c5b6d45-8652-41ed-af03-ed41720aca2b.png)
+
 
